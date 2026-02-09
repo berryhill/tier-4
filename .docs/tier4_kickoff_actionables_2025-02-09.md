@@ -53,9 +53,9 @@ Once the above items are complete, the developer team will:
 4. Set up Kubernetes clusters for container orchestration
 5. Configure CI/CD pipeline with GitHub Actions
 6. Set up Doppler for secrets management
-7. Configure monitoring and observability (logging, alerting)
 
 ### Development Kickoff
+
 1. Begin Phase 1 research on AI intake agent platforms
 2. Evaluate voice AI SDKs and present options with cost/benefit analysis
 3. Start backend architecture for vendor matching engine
