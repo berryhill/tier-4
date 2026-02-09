@@ -21,10 +21,8 @@
 - [ ] Domain registrar access - Credentials or delegate access
 - [ ] DNS management access - Ability to modify DNS records
 
-### Third-Party Services
-- [ ] Payment processor account (Stripe, PayPal, etc.) - If applicable
-- [ ] Email service provider (SendGrid, Mailgun, SES) - For transactional emails
-- [ ] Existing API keys for integrations - Any services to integrate
+### Existing Third-Party Accounts (if any)
+- [ ] Existing API keys/credentials for services already in use
 
 ### Assets & Brand
 - [ ] Logo files (SVG, PNG formats)
@@ -45,17 +43,19 @@
 - [ ] Existing data exports - Any data to migrate or reference
 - [ ] Stakeholder map - Who needs visibility or sign-off
 
-### Legal & Compliance
-- [ ] Privacy policy requirements
-- [ ] Terms of service requirements
-- [ ] Compliance requirements (GDPR, HIPAA, SOC2, etc.)
-
 ---
 
 ## Internal Action Items
 
+### Scope of Work Discovery
+- [ ] Review and understand full scope of work requirements
+- [ ] Identify all features and functionality needed
+- [ ] Map features to technical requirements
+- [ ] Identify unknowns and questions for client clarification
+- [ ] Document technical architecture decisions needed
+
 ### Third-Party Systems Research Initiative
-- [ ] Identify all third-party systems required for the project
+- [ ] Identify all third-party systems required based on scope discovery
 - [ ] Evaluate options for each category (auth, payments, email, etc.)
 - [ ] Document selection criteria and recommendations
 - [ ] Present options to client for final selection
@@ -68,10 +68,8 @@
 1. Introductions and roles
 2. Review project scope and timeline
 3. Walk through this checklist
-4. Assign owners to each item
-5. Set deadlines for client-provided items
-6. Confirm communication channels
-7. Schedule first weekly sync
+4. Confirm communication channels
+5. Schedule first weekly sync
 
 ---
 
